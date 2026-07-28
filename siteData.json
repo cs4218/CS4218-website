@@ -1,0 +1,398 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "overview/briefing-recordings.md",
+      "title": "Weekly Briefing Recordings",
+      "headings": {
+        "weekly-briefing-recordings": "Weekly Briefing Recordings",
+        "trofos": "TROFOS",
+        "lectures": "Lectures",
+        "week-1-introduction": "Week 1 - Introduction",
+        "week-2-unit-testing": "Week 2 - Unit Testing",
+        "week-3-integration-testing-and-code-coverage": "Week 3 - Integration Testing and Code Coverage",
+        "week-4-control-flow-graphs": "Week 4 - Control Flow Graphs",
+        "week-5-test-generation-techniques": "Week 5 - Test Generation Techniques",
+        "week-7-combinatorial-testing": "Week 7 - Combinatorial Testing",
+        "week-8-performance-testing": "Week 8 - Performance Testing",
+        "week-10-security-testing": "Week 10 - Security Testing",
+        "week-11-test-metrics": "Week 11 - Test Metrics",
+        "week-12-testing-methods-used-in-ai": "Week 12 - Testing methods used in AI",
+        "week-13-agile-testing": "Week 13 - Agile Testing",
+        "labs": "Labs",
+        "week-3-lab-1": "Week 3 - Lab 1",
+        "week-4-lab-2": "Week 4 - Lab 2",
+        "week-5-lab-3": "Week 5 - Lab 3",
+        "week-7-lab-4": "Week 7 - Lab 4",
+        "week-10-lab-5": "Week 10 - Lab 5"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "overview/faq.md",
+      "title": "FAQ",
+      "headings": {
+        "faq": "FAQ"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "overview/index.md",
+      "title": "Module Overview",
+      "headings": {
+        "module-overview": "Module Overview"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "overview/instructor.md",
+      "title": "Meet the Instructor",
+      "headings": {
+        "meet-the-instructor": "Meet the Instructor",
+        "about-the-instructor": "About the instructor"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "overview/piazza.md",
+      "title": "Join Piazza For Discussions",
+      "headings": {
+        "join-piazza-for-discussions": "Join Piazza For Discussions",
+        "join-the-class-discussion": "Join the class discussion"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "overview/schedule-deadlines-evaluation.md",
+      "title": "Schedule, Important Deadlines, and Evaluation Guidelines",
+      "headings": {
+        "schedule-important-deadlines-and-evaluation-guidelines": "Schedule, Important Deadlines, and Evaluation Guidelines",
+        "course-note-section-4": "Course Schedule",
+        "course-note-section-89": "Graded Components",
+        "course-note-section-105": "Showcasing Outstanding Student Work",
+        "course-note-section-110": "Late Submission Policy",
+        "course-note-section-124": "AI Usage Policy",
+        "course-note-section-135": "Questions and Communication Policy",
+        "course-note-section-164": "Team - Project TA Allocation",
+        "course-note-section-176": "All Project Milestones: AI-driven Testing (Group)",
+        "course-note-section-219": "Project Milestone 1: 10% - Recess Week Monday 12 PM",
+        "course-note-section-222": "Unit Tests 5% (Individual)",
+        "course-note-section-239": "Grading Rubric",
+        "course-note-section-246": "CI 1% (Group)",
+        "course-note-section-258": "Grading Rubric",
+        "course-note-section-264": "Report 4% (Individual)",
+        "course-note-section-288": "Grading Rubric",
+        "course-note-section-297": "Project Milestone 2: 10% - Week 09 10 Monday 12 PM",
+        "course-note-section-300": "Integration Tests 2% (Individual) ",
+        "course-note-section-318": "Grading Rubric",
+        "course-note-section-324": "UI Tests 3% (Individual)",
+        "course-note-section-343": "Grading Rubric",
+        "course-note-section-349": "Code Coverage 1% (Group)",
+        "course-note-section-362": "Grading Rubric",
+        "course-note-section-368": "Report 4% (Individual)",
+        "course-note-section-396": "Grading Rubric",
+        "course-note-section-405": "Project Milestone 3: 15 % - Week 13 Monday 12 PM",
+        "course-note-section-408": "Non Functional Testing 4% (Individual) ",
+        "course-note-section-430": "Grading Rubric",
+        "course-note-section-436": "Final Report 7% (Individual for non-functional testing portion and Group for AI-driven testing portion)",
+        "course-note-section-479": "Grading Rubric",
+        "course-note-section-486": "Presentation 4% (report is presented individually, AI-driven testing live demo is presented as a group)",
+        "course-note-section-502": "Grading Rubric",
+        "course-note-section-511": "Project Management: 2 %",
+        "course-note-section-527": "Grading Rubric",
+        "course-note-section-533": "Mid-term: 15 % - Week 07 during the lecture Saturday of Week 8",
+        "course-note-section-542": "Lab Attendance: 2%",
+        "course-note-section-554": "Quizzes: 6%",
+        "course-note-section-562": "Final Exam: 40%"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "overview/venue.md",
+      "title": "Venue",
+      "headings": {
+        "venue": "Venue"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/index.md",
+      "title": "13-week schedule",
+      "headings": {
+        "schedule": "Schedule"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/readingweek1.md",
+      "title": "Reading Week",
+      "headings": {
+        "reading-week": "Reading Week",
+        "overview": "Overview",
+        "what-to-do": "What to do",
+        "deadlines": "Deadlines"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/readingweek2.md",
+      "title": "Reading Week",
+      "headings": {
+        "reading-week": "Reading Week",
+        "overview": "Overview",
+        "what-to-do": "What to do",
+        "deadlines": "Deadlines"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/week1.md",
+      "title": "Week 1",
+      "headings": {
+        "week-1-add-topic": "Week 1: Add topic",
+        "week-overview": "Week overview",
+        "learning-outcomes": "Learning outcomes",
+        "weekly-learning-plan": "Weekly learning plan",
+        "prepare": "Prepare",
+        "learn": "Learn",
+        "practise": "Practise",
+        "consolidate": "Consolidate",
+        "resources-and-recordings": "Resources and recordings",
+        "deadlines-this-week": "Deadlines this week"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/week10.md",
+      "title": "Week 10",
+      "headings": {
+        "week-10-add-topic": "Week 10: Add topic",
+        "week-overview": "Week overview",
+        "learning-outcomes": "Learning outcomes",
+        "weekly-learning-plan": "Weekly learning plan",
+        "prepare": "Prepare",
+        "learn": "Learn",
+        "practise": "Practise",
+        "consolidate": "Consolidate",
+        "resources-and-recordings": "Resources and recordings",
+        "deadlines-this-week": "Deadlines this week"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/week11.md",
+      "title": "Week 11",
+      "headings": {
+        "week-11-add-topic": "Week 11: Add topic",
+        "week-overview": "Week overview",
+        "learning-outcomes": "Learning outcomes",
+        "weekly-learning-plan": "Weekly learning plan",
+        "prepare": "Prepare",
+        "learn": "Learn",
+        "practise": "Practise",
+        "consolidate": "Consolidate",
+        "resources-and-recordings": "Resources and recordings",
+        "deadlines-this-week": "Deadlines this week"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/week12.md",
+      "title": "Week 12",
+      "headings": {
+        "week-12-add-topic": "Week 12: Add topic",
+        "week-overview": "Week overview",
+        "learning-outcomes": "Learning outcomes",
+        "weekly-learning-plan": "Weekly learning plan",
+        "prepare": "Prepare",
+        "learn": "Learn",
+        "practise": "Practise",
+        "consolidate": "Consolidate",
+        "resources-and-recordings": "Resources and recordings",
+        "deadlines-this-week": "Deadlines this week"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/week13.md",
+      "title": "Week 13",
+      "headings": {
+        "week-13-add-topic": "Week 13: Add topic",
+        "week-overview": "Week overview",
+        "learning-outcomes": "Learning outcomes",
+        "weekly-learning-plan": "Weekly learning plan",
+        "prepare": "Prepare",
+        "learn": "Learn",
+        "practise": "Practise",
+        "consolidate": "Consolidate",
+        "resources-and-recordings": "Resources and recordings",
+        "deadlines-this-week": "Deadlines this week"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/week2.md",
+      "title": "Week 2",
+      "headings": {
+        "week-2-add-topic": "Week 2: Add topic",
+        "week-overview": "Week overview",
+        "learning-outcomes": "Learning outcomes",
+        "weekly-learning-plan": "Weekly learning plan",
+        "prepare": "Prepare",
+        "learn": "Learn",
+        "practise": "Practise",
+        "consolidate": "Consolidate",
+        "resources-and-recordings": "Resources and recordings",
+        "deadlines-this-week": "Deadlines this week"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/week3.md",
+      "title": "Week 3",
+      "headings": {
+        "week-3-add-topic": "Week 3: Add topic",
+        "week-overview": "Week overview",
+        "learning-outcomes": "Learning outcomes",
+        "weekly-learning-plan": "Weekly learning plan",
+        "prepare": "Prepare",
+        "learn": "Learn",
+        "practise": "Practise",
+        "consolidate": "Consolidate",
+        "resources-and-recordings": "Resources and recordings",
+        "deadlines-this-week": "Deadlines this week"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/week4.md",
+      "title": "Week 4",
+      "headings": {
+        "week-4-add-topic": "Week 4: Add topic",
+        "week-overview": "Week overview",
+        "learning-outcomes": "Learning outcomes",
+        "weekly-learning-plan": "Weekly learning plan",
+        "prepare": "Prepare",
+        "learn": "Learn",
+        "practise": "Practise",
+        "consolidate": "Consolidate",
+        "resources-and-recordings": "Resources and recordings",
+        "deadlines-this-week": "Deadlines this week"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/week5.md",
+      "title": "Week 5",
+      "headings": {
+        "week-5-add-topic": "Week 5: Add topic",
+        "week-overview": "Week overview",
+        "learning-outcomes": "Learning outcomes",
+        "weekly-learning-plan": "Weekly learning plan",
+        "prepare": "Prepare",
+        "learn": "Learn",
+        "practise": "Practise",
+        "consolidate": "Consolidate",
+        "resources-and-recordings": "Resources and recordings",
+        "deadlines-this-week": "Deadlines this week"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/week6.md",
+      "title": "Week 6",
+      "headings": {
+        "week-6-add-topic": "Week 6: Add topic",
+        "week-overview": "Week overview",
+        "learning-outcomes": "Learning outcomes",
+        "weekly-learning-plan": "Weekly learning plan",
+        "prepare": "Prepare",
+        "learn": "Learn",
+        "practise": "Practise",
+        "consolidate": "Consolidate",
+        "resources-and-recordings": "Resources and recordings",
+        "deadlines-this-week": "Deadlines this week"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/week7.md",
+      "title": "Week 7",
+      "headings": {
+        "week-7-add-topic": "Week 7: Add topic",
+        "week-overview": "Week overview",
+        "learning-outcomes": "Learning outcomes",
+        "weekly-learning-plan": "Weekly learning plan",
+        "prepare": "Prepare",
+        "learn": "Learn",
+        "practise": "Practise",
+        "consolidate": "Consolidate",
+        "resources-and-recordings": "Resources and recordings",
+        "deadlines-this-week": "Deadlines this week"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/week8.md",
+      "title": "Week 8",
+      "headings": {
+        "week-8-add-topic": "Week 8: Add topic",
+        "week-overview": "Week overview",
+        "learning-outcomes": "Learning outcomes",
+        "weekly-learning-plan": "Weekly learning plan",
+        "prepare": "Prepare",
+        "learn": "Learn",
+        "practise": "Practise",
+        "consolidate": "Consolidate",
+        "resources-and-recordings": "Resources and recordings",
+        "deadlines-this-week": "Deadlines this week"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/week9.md",
+      "title": "Week 9",
+      "headings": {
+        "week-9-add-topic": "Week 9: Add topic",
+        "week-overview": "Week overview",
+        "learning-outcomes": "Learning outcomes",
+        "weekly-learning-plan": "Weekly learning plan",
+        "prepare": "Prepare",
+        "learn": "Learn",
+        "practise": "Practise",
+        "consolidate": "Consolidate",
+        "resources-and-recordings": "Resources and recordings",
+        "deadlines-this-week": "Deadlines this week"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "Welcome to CS4218",
+      "headings": {
+        "course-title": "Welcome to CS4218!"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "project-links.md",
+      "title": "Project Links",
+      "headings": {
+        "project-links": "Project links",
+        "project-website": "Project Website",
+        "github-cs4218-organisation": "Github CS4218 Organisation",
+        "trofos": "TROFOS"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "other-links.md",
+      "title": "Other Links",
+      "headings": {
+        "other-links": "Other links",
+        "piazza": "PIAZZA"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}
