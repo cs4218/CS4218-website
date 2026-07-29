@@ -6,25 +6,7 @@
       "title": "Weekly Briefing Recordings",
       "headings": {
         "weekly-briefing-recordings": "Weekly Briefing Recordings",
-        "trofos": "TROFOS",
-        "lectures": "Lectures",
-        "week-1-introduction": "Week 1 - Introduction",
-        "week-2-unit-testing": "Week 2 - Unit Testing",
-        "week-3-integration-testing-and-code-coverage": "Week 3 - Integration Testing and Code Coverage",
-        "week-4-control-flow-graphs": "Week 4 - Control Flow Graphs",
-        "week-5-test-generation-techniques": "Week 5 - Test Generation Techniques",
-        "week-7-combinatorial-testing": "Week 7 - Combinatorial Testing",
-        "week-8-performance-testing": "Week 8 - Performance Testing",
-        "week-10-security-testing": "Week 10 - Security Testing",
-        "week-11-test-metrics": "Week 11 - Test Metrics",
-        "week-12-testing-methods-used-in-ai": "Week 12 - Testing methods used in AI",
-        "week-13-agile-testing": "Week 13 - Agile Testing",
-        "labs": "Labs",
-        "week-3-lab-1": "Week 3 - Lab 1",
-        "week-4-lab-2": "Week 4 - Lab 2",
-        "week-5-lab-3": "Week 5 - Lab 3",
-        "week-7-lab-4": "Week 7 - Lab 4",
-        "week-10-lab-5": "Week 10 - Lab 5"
+        "trofos": "TROFOS"
       },
       "headingKeywords": {}
     },
@@ -66,6 +48,7 @@
       "src": "overview/schedule-deadlines-evaluation.md",
       "title": "Schedule, Important Deadlines, and Evaluation Guidelines",
       "headings": {
+        "to-be-updated": "To Be Updated...",
         "schedule-important-deadlines-and-evaluation-guidelines": "Schedule, Important Deadlines, and Evaluation Guidelines",
         "course-note-section-4": "Course Schedule",
         "course-note-section-89": "Graded Components",
@@ -119,6 +102,7 @@
       "src": "schedule/index.md",
       "title": "13-week schedule",
       "headings": {
+        "to-be-updated": "To Be Updated...",
         "schedule": "Schedule"
       },
       "headingKeywords": {}
@@ -367,21 +351,87 @@
       "headingKeywords": {}
     },
     {
-      "src": "index.md",
-      "title": "Welcome to CS4218",
+      "src": "project/code-analysis-coverage.md",
+      "title": "Project Code Analysis and Coverage",
       "headings": {
-        "course-title": "Welcome to CS4218!"
+        "code-analysis-coverage": "Code Analysis/Coverage",
+        "analysis-requirements": "Analysis requirements",
+        "coverage-requirements": "Coverage requirements",
+        "evidence-and-submission": "Evidence and submission"
       },
       "headingKeywords": {}
     },
     {
-      "src": "project-links.md",
-      "title": "Project Links",
+      "src": "project/debugging.md",
+      "title": "Project Debugging",
       "headings": {
-        "project-links": "Project links",
-        "project-website": "Project Website",
-        "github-cs4218-organisation": "Github CS4218 Organisation",
-        "trofos": "TROFOS"
+        "debugging": "Debugging",
+        "debugging-approach": "Debugging approach",
+        "tasks": "Tasks",
+        "evidence-and-submission": "Evidence and submission"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "project/index.md",
+      "title": "Project Overview",
+      "headings": {
+        "overview": "Overview",
+        "project-brief": "Project brief",
+        "deliverables": "Deliverables",
+        "team-expectations": "Team expectations"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "project/load-testing.md",
+      "title": "Project Load Testing",
+      "headings": {
+        "load-testing": "Load Testing",
+        "test-plan": "Test plan",
+        "metrics-and-analysis": "Metrics and analysis",
+        "evidence-and-submission": "Evidence and submission"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "project/setting-up.md",
+      "title": "Project Setting Up",
+      "headings": {
+        "setting-up": "Setting Up",
+        "prerequisites": "Prerequisites",
+        "setup-instructions": "Setup instructions",
+        "verify-your-setup": "Verify your setup"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "project/ui-testing.md",
+      "title": "Project UI Testing",
+      "headings": {
+        "ui-testing": "UI Testing",
+        "test-scope": "Test scope",
+        "tasks-and-tools": "Tasks and tools",
+        "evidence-and-submission": "Evidence and submission"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "project/unit-testing.md",
+      "title": "Project Unit Testing",
+      "headings": {
+        "unit-testing": "Unit Testing",
+        "objectives": "Objectives",
+        "tasks": "Tasks",
+        "evidence-and-submission": "Evidence and submission"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "Welcome to CS4218",
+      "headings": {
+        "course-title": "Welcome to CS4218!"
       },
       "headingKeywords": {}
     },
