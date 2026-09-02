@@ -101,6 +101,12 @@
     <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">n%wq46PK</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 3 lab passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
   </article>
 
+  <article class="recording-card">
+    <h3>Week 4 - Unit Testing (Part 2) &amp; Project Remarks</h3>
+    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/LkGDozakDswV_ussJs3xammqKYT-_VVE2LLXPtkqiWwE2j6u5sGCVUSEoUZFBxoS.IqeU6cQ_t_1TUnlj" target="_blank" rel="noopener noreferrer">Unit Testing (Part 2) &amp; Project Remarks</a></p>
+    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">L*wQ?1*D</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 4 lab passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
+  </article>
+
   <!--
   <article class="recording-card">
     <h3>Week 4 - Lab 2</h3>
