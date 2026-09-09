@@ -113,6 +113,12 @@
     <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">L*wQ?1*D</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 4 lab passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
   </article>
 
+  <article class="recording-card">
+    <h3>Week 5 - Continuous Integration &amp; Code Coverage</h3>
+    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/gRomGMeiuryUM3Ce4JqWBv5LTNf8Va_UEOiFeYFpaeKYv1rcip1fNgF-0HQiWn2M.nPiVCL4Akj924mhB" target="_blank" rel="noopener noreferrer">Continuous Integration &amp; Code Coverage</a></p>
+    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">CV0^0@SN</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 5 lab passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
+  </article>
+
   <!--
   <article class="recording-card">
     <h3>Week 4 - Lab 2</h3>
