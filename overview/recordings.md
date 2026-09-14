@@ -44,6 +44,12 @@
     <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">BD?5G73r</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 5 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
   </article>
 
+  <article class="recording-card">
+    <h3>Week 6 - Performance Testing</h3>
+    <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/o0gODb2Du9eYFfA31YZpmFYN62cIWnwzhbRB_N7bEqXvHTQ8d9RfXDzjtRk4YdhC.qzP0u8zan7j6WYxO" target="_blank" rel="noopener noreferrer">PERFORMANCE TESTING</a></p>
+    <p class="recording-passcode"><span>Passcode: <span class="recording-passcode-value">$U4?$D$b</span></span><button type="button" class="copy-passcode-button" aria-label="Copy Week 6 lecture passcode" title="Copy passcode"></button><span class="copy-passcode-status" aria-live="polite" aria-atomic="true"></span></p>
+  </article>
+
   <!-- <article class="recording-card">
     <h3>Week 3 - Integration Testing and Code Coverage</h3>
     <p class="recording-link"><a href="https://nus-sg.zoom.us/rec/share/kYNHs-y-viwrigsiJu9xP8-2kf_j5w3OtAycY4oShE9NNXVErZPiY9tSfm_134Zo.a5lZOb_X-UeQUV5q" target="_blank" rel="noopener noreferrer">https://nus-sg.zoom.us/rec/share/kYNHs-y-viwrigsiJu9xP8-2kf_j5w3OtAycY4oShE9NNXVErZPiY9tSfm_134Zo.a5lZOb_X-UeQUV5q</a></p>
