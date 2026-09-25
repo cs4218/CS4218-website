@@ -29,6 +29,7 @@
 - **Project** :expanded:
   - [Overview]({{ baseUrl }}/project/index.html)
   - [Milestone 1]({{ baseUrl }}/project/milestone-1.html)
+  - [Milestone 2]({{ baseUrl }}/project/milestone-2.html)
   - [Project Management]({{ baseUrl }}/project/project-management.html)
   <!--
   - [Setting Up]({{ baseUrl }}/project/setting-up.html)
