@@ -6,7 +6,7 @@
 
 <div class="callout callout-warning">
   <div class="callout-title">Deadline</div>
-  <p>Due on <strong>Week 10 Monday, 12:00 PM</strong>.</p>
+  <p>Due on <strong>Week 9 Monday, 12:00 PM</strong>.</p>
 </div>
 
 ## Integration Tests 👤
@@ -16,41 +16,28 @@
   <p>This section is worth <strong>2%</strong> of your final grade.</p>
 </div>
 
-- Design and write integration tests using the appropriate approaches, as discussed during the lectures.
-- Integration tests are tests that test the interactions between different units. For example, it could be between a unit that you have tested previously during MS1 with another unit tested by another team member. Thus, you are no longer testing in isolation.
-- Integration tests are white-box tests and hence will be written using the same technology and method as unit tests.
-- Similar to Milestone 1:
-  - Identify the integration tests to write and divide the workload equally among yourselves.
-  - Note that the Suggested Testing Scope given is only for Milestone 1. As some components might have more interactions than others, feel free to re-allocate the components such that everyone has equal workload.
-  - Also provide a clear indication of who did what:
-    - Indicate each member's workload (i.e., who did what) in your repository's README file.
-    - For every file you create or edit, include a comment at each location where you wrote test cases indicating your name and student ID (e.g., // John Doe, A0123456B).
-    - This ensures that graders can clearly identify individual contributions and mark your work efficiently.
-    - Failure to follow the above requirements will result in a 1 mark deduction.
-  - There is no limit on the number of tests to write, write as many as you require.
-  - You are required to fix any bugs found during testing.
+Design and write integration tests using appropriate, principled approaches, as discussed during the lectures. Integration tests are tests that verify the interactions between different units. For example, it could be between a unit that you have tested previously during Milestone 1 and another unit tested by another team member. Thus, you are no longer testing in isolation. Furthermore, integration tests are white-box tests and hence will be written using the same technology and methods as unit tests.
+
+Similar to Milestone 1, identify the integration tests to write and divide the workload equally among yourselves. Note that the **Suggested Testing Scope** given is only for Milestone 1. As some components might have more interactions than others, feel free to re-allocate the components such that everyone has an equal workload.
 
 ### Grading Rubric
 
-<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 2: 10% - Week 10 Monday 12 PM — Integration Tests 2% (Individual) — Grading Rubric" tabindex="0">
+<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 2: 10% - Week 9 Monday 12 PM — Integration Tests 2% (Individual) — Grading Rubric" tabindex="0">
   <table class="wide-data course-note-table course-note-rubric">
     <thead>
       <tr>
-        <th scope="col">Approach (0.5%)</th>
+        <th scope="col">Approach (1%)</th>
         <th scope="col">Correctness (1%)</th>
-        <th scope="col">Variety (0.5%)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>0: Integration tests were written without a clear approach or code does not match approach mentioned in the report.</td>
         <td>0.5: Integration tests are not testing integration of components or mocks/stubs are inappropriately used.</td>
-        <td>0: Performed integration tests on less than 2 different component files.</td>
       </tr>
       <tr>
-        <td>0.5: Integration tests are written with a clear approach (e.g., bottom-up integration, etc.) and the code aligns with the approach mentioned in the report.</td>
+        <td>1: Integration tests are written with a clear approach (e.g., bottom-up integration, etc.) and the code aligns with the approach mentioned in the report.</td>
         <td>1: Integration tests are clearly testing the integration of some components, as opposed to complete mocking/stubbing in unit tests. This also means that mocks/stubs are appropriately used.</td>
-        <td>0.5: Performed integration tests on at least 2 different component files (e.g. Login.js and Register.js instead of just varying levels of integration for Login.js).</td>
       </tr>
     </tbody>
   </table>
@@ -58,7 +45,7 @@
 
 <div class="callout callout-success">
   <div class="callout-title">Submission</div>
-  <p>Submit your code through tagging on GitHub. Tag your team's code as <strong>ms2</strong> in your GitHub repository.</p>
+  <p>Tag your group's code as <strong>ms2</strong> in your GitHub repository.</p>
 </div>
 
 ## UI Tests 👤
@@ -85,7 +72,7 @@
 
 ### Grading Rubric
 
-<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 2: 10% - Week 10 Monday 12 PM — UI Tests 3% (Individual) — Grading Rubric" tabindex="0">
+<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 2: 10% - Week 9 Monday 12 PM — UI Tests 3% (Individual) — Grading Rubric" tabindex="0">
   <table class="wide-data course-note-table course-note-rubric">
     <thead>
       <tr>
@@ -132,7 +119,7 @@
 
 ### Grading Rubric
 
-<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 2: 10% - Week 10 Monday 12 PM — Code Coverage 1% (Group) — Grading Rubric" tabindex="0">
+<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 2: 10% - Week 9 Monday 12 PM — Code Coverage 1% (Group) — Grading Rubric" tabindex="0">
   <table class="wide-data course-note-table course-note-rubric">
     <thead>
       <tr>
@@ -176,7 +163,7 @@
 
 ### Grading Rubric
 
-<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 2: 10% - Week 10 Monday 12 PM — Report 4% (Individual) — Grading Rubric" tabindex="0">
+<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 2: 10% - Week 9 Monday 12 PM — Report 4% (Individual) — Grading Rubric" tabindex="0">
   <table class="wide-data course-note-table course-note-rubric">
     <thead>
       <tr>
