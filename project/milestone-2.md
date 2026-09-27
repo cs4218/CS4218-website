@@ -116,7 +116,7 @@ We are not grading based on how much code coverage has been obtained, but rather
   <table class="wide-data course-note-table course-note-rubric">
     <thead>
       <tr>
-        <th scope="col">Code Coverage Report (1%)</th>
+        <th scope="col">Code Coverage (1%)</th>
       </tr>
     </thead>
     <tbody>
