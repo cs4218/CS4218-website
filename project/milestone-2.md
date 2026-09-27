@@ -33,7 +33,7 @@ Similar to Milestone 1, identify the integration tests to write and divide the w
     <tbody>
       <tr>
         <td>0: Integration tests were written without a clear approach or code does not match approach mentioned in the report.</td>
-        <td>0.5: Integration tests are not testing integration of components or mocks/stubs are inappropriately used.</td>
+        <td>0: Integration tests are not testing integration of components or mocks/stubs are inappropriately used.</td>
       </tr>
       <tr>
         <td>1: Integration tests are written with a clear approach (e.g., bottom-up integration, etc.) and the code aligns with the approach mentioned in the report.</td>
