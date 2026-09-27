@@ -142,17 +142,12 @@ We are not grading based on how much code coverage has been obtained, but rather
   <p>This section is worth <strong>4%</strong> of your final grade.</p>
 </div>
 
-- **Add 2 more pages** to your existing individual report with your approach for both Integration and UI tests (which approach you selected, why, etc.) and graphical test statistics for MS2 (things such as # of test identified, # tests automated, # of bugs identified, # of bugs fixed, etc.).
-- **Add 1 more page** to include your group's progress for AI driven testing.
-  - What have you done so far?
-  - How effective was it?
-  - Any improvements/changes you intend to make?
-- **Add 2 more pages** to include your group's code coverage report.
-- Feel free to update any details from MS1.
-- Similar to Milestone 1:
-  - Tables are **NOT** counted as graphical test statistics.
-  - Effort marks will be awarded based on the quality and depth of the report content (compared against your peers).
-  - The report has a **strict 2 page limit** for the individual component, a **strict 1 page limit** for the group AI-driven testing component, and a **strict 2 page limit** for the code coverage component.
+Your report should cover two key components:
+
+- A brief description of the approaches you used for your Integration and UI tests — which approaches you selected and why.
+- Milestone 2 test statistics presented in a graphical way (e.g., pie charts, bar charts), covering things such as the number of tests identified, tests automated, bugs identified, and bugs fixed. Tables are **not** counted as graphs.
+
+The report has a strict **2 page limit**.
 
 ### Grading Rubric
 
@@ -160,24 +155,22 @@ We are not grading based on how much code coverage has been obtained, but rather
   <table class="wide-data course-note-table course-note-rubric">
     <thead>
       <tr>
-        <th scope="col">Report (4%, this does not include code coverage)</th>
+        <th scope="col">Approach Description (2%)</th>
+        <th scope="col">Graphical Test Statistics (2%)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><strong>Two key components: approach description and graphical test statistics</strong></td>
+        <td>0: Poor or missing approach description</td>
+        <td>0: Poor or missing graphical statistics</td>
       </tr>
       <tr>
-        <td>1: Lacking in two key components (e.g., poor approach description and poor presentation of graphical test statistics).</td>
+        <td>1: Adequate approach description</td>
+        <td>1: Adequate graphical statistics</td>
       </tr>
       <tr>
-        <td>2: Lacking in only one key component.</td>
-      </tr>
-      <tr>
-        <td>3: Good approach description and good presentation of graphical test statistics.</td>
-      </tr>
-      <tr>
-        <td>+1/0: Additional marks based on effort (compared against peers).</td>
+        <td>2: Clear and well-reasoned approach description</td>
+        <td>2: Clear and well-presented graphical statistics</td>
       </tr>
     </tbody>
   </table>
@@ -185,23 +178,5 @@ We are not grading based on how much code coverage has been obtained, but rather
 
 <div class="callout callout-success">
   <div class="callout-title">Submission</div>
-  <p>Submission on Canvas:</p>
-  <ul>
-    <li>Collate the reports from your team members and submit one pdf file on Canvas (only one member needs to make the submission for the whole team).</li>
-    <li>For example, a 5 member team should submit a 24 page pdf file on Canvas:
-      <ul>
-        <li>First 2 pages by member A (MS1)</li>
-        <li>Next 2 pages by member A (MS2)</li>
-        <li>Next 2 pages by member B (MS1)</li>
-        <li>Next 2 pages by member B (MS2)</li>
-        <li>…</li>
-        <li>Page 21 and 22: Group's Code Coverage Report (MS2)</li>
-        <li>Page 23: Group's plan for AI-driven testing (MS1, not graded but may be considered when determining effort marks)</li>
-        <li>Page 24: Group's progress for AI-driven testing (MS2, not graded but may be considered when determining effort marks)</li>
-      </ul>
-    </li>
-    <li>For the individual sections of the report, include a footer on every page stating your name and student ID (e.g., John Doe, A0123456B).</li>
-    <li>Failure to follow the above mentioned requirements will result in a 1 mark deduction.</li>
-    <li>A report cover page is optional and not necessary as long as it is clear who did what. Should you decide to include a cover page, it will <strong>NOT</strong> be counted towards the page limit.</li>
-  </ul>
+  <p>Collate the reports from your group members and submit one PDF on Canvas (only one member needs to make the submission for the whole group).</p>
 </div>
