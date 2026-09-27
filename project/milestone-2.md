@@ -100,14 +100,15 @@ As a group, identify meaningful end-to-end system tests and divide the workload 
   <p>This section is worth <strong>1%</strong> of your final grade.</p>
 </div>
 
-- As a group, use SonarQube and generate a code coverage report.
-- We are not grading based on how much code coverage has been obtained, but rather, we are grading based on the ability to run code coverage and generate these reports.
-- Based on the generated report, write a **two-page summary**:
-  - One page with screenshots of the report generated from SonarQube (e.g., percentages of different types of coverage, coverage for a specific file, etc).
-  - Another page with your plan to improve the coverage based on the screenshots (you don't need to implement these proposed things).
-  - If you have very high coverage (e.g., 99.5%), and thus, have very few things to write about in the second page, also describe your process of achieving high coverage. So you should write about:
-    - The improvement plan for the small portion of code not yet covered (unless you attained 100%).
-    - How your team attained high code coverage.
+As a group, use SonarQube and generate a code coverage report. Based on the generated report, write a **two-page summary**:
+
+- One page with screenshots of the report generated from SonarQube (e.g., percentages of different types of coverage, coverage for a specific file).
+- Another page with your plan to improve the coverage based on the screenshots (you don't need to implement these proposed things).
+- If you have very high coverage (>95%), and thus, have very few things to write about in the second page, also describe your process of achieving high coverage. So you should write about:
+  - The improvement plan for the small portion of code not yet covered (unless you attained 100%).
+  - How your team attained high code coverage.
+
+We are not grading based on how much code coverage has been obtained, but rather, we are grading based on the ability to run SonarQube and analyze the report.
 
 ### Grading Rubric
 
@@ -131,7 +132,7 @@ As a group, identify meaningful end-to-end system tests and divide the workload 
 
 <div class="callout callout-success">
   <div class="callout-title">Submission</div>
-  <p>Submission on Canvas: Include this <strong>in your MS2 report submission.</strong></p>
+  <p>Append the two pages to the end of your Milestone 2 report.</p>
 </div>
 
 ## Report 👤
