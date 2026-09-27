@@ -18,7 +18,7 @@
 
 Design and write integration tests using appropriate, principled approaches, as discussed during the lectures. Integration tests are tests that verify the interactions between different units. For example, it could be between a unit that you have tested previously during Milestone 1 and another unit tested by another team member. Thus, you are no longer testing in isolation. Furthermore, integration tests are white-box tests and hence will be written using the same technology and methods as unit tests.
 
-Similar to Milestone 1, identify the integration tests to write and divide the workload equally among yourselves. Note that the **Suggested Testing Scope** given is only for Milestone 1. As some components might have more interactions than others, feel free to re-allocate the components such that everyone has an equal workload.
+Similar to Milestone 1, identify the integration tests to write—covering all components—and divide the workload equally among yourselves. As some components might have more interactions than others, feel free to re-allocate the components such that everyone has an equal workload.
 
 ### Grading Rubric
 
@@ -55,20 +55,12 @@ Similar to Milestone 1, identify the integration tests to write and divide the w
   <p>This section is worth <strong>3%</strong> of your final grade.</p>
 </div>
 
-- Identify end-to-end system tests. These are black-box tests and students need to use Playwright to develop these tests.
-- These tests should test end-user scenarios that span across multiple components and tests, independent of the underlying implementation methods.
-  - Good example of multiple components: User logs in -> adds item to cart -> views cart -> sees item in cart
-  - Poor example of multiple components: Navigates to log in page -> checks that the page contains the necessary UI elements
-- Similar to Milestone 1:
-  - Identify the UI tests to write and divide the work equally among yourselves.
-  - Note that the Suggested Testing Scope given is only for Milestone 1, re-allocate as necessary for equal workload.
-  - Also provide a clear indication of who did what:
-    - Indicate each member's workload (i.e., who did what) in your repository's README file.
-    - For every file you create or edit, include a comment at each location where you wrote test cases indicating your name and student ID (e.g., // John Doe, A0123456B).
-    - This ensures that graders can clearly identify individual contributions and mark your work efficiently.
-    - Failure to follow the above requirements will result in a 1 mark deduction.
-  - There is no limit on the number of tests to write, write as many as you require.
-  - You are required to fix any bugs found during testing.
+Design and write end-to-end system tests. These are black-box tests and you need to use **Playwright** to develop these tests. These tests should test end-user scenarios that span across multiple components, independent of the underlying implementation.
+
+- Good example of multiple components: User logs in -> adds item to cart -> views cart -> sees item in cart
+- Poor example of multiple components: Navigates to login page -> checks that the page contains the necessary UI elements
+
+As a group, identify meaningful end-to-end system tests and divide the workload equally among yourselves. There is no limit on the number of tests you can write, so feel free to write as many as you require.
 
 ### Grading Rubric
 
@@ -83,9 +75,9 @@ Similar to Milestone 1, identify the integration tests to write and divide the w
     </thead>
     <tbody>
       <tr>
-        <td>0.5: Poor or incomplete E2E scenarios are tested. For example, just checking that a page has the necessary UI elements.</td>
-        <td>0.5: UI tests are incorrectly implemented with poor structure (e.g., test case does not assert any outcomes).</td>
-        <td>0.5: UI tests lack variety. For example, only implementing the test for 'Login successfully' and 'Login unsuccessfully'.</td>
+        <td>0: Poor or incomplete E2E scenarios are tested. For example, just checking that a page has the necessary UI elements.</td>
+        <td>0: UI tests are incorrectly implemented with poor structure (e.g., test case does not assert any outcomes).</td>
+        <td>0: UI tests lack variety. For example, only implementing the test for 'Login successfully' and 'Login unsuccessfully'.</td>
       </tr>
       <tr>
         <td>1: Clear and complete E2E scenarios are tested. For example, for registration, the test case tests that the user navigates to register page, fill in details and finally register, instead of just checking that the register page has the necessary UI elements.</td>
@@ -98,7 +90,7 @@ Similar to Milestone 1, identify the integration tests to write and divide the w
 
 <div class="callout callout-success">
   <div class="callout-title">Submission</div>
-  <p>Submit your code through tagging on GitHub. Tag your team's code as <strong>ms2</strong> in your GitHub repository.</p>
+  <p>Tag your group's code as <strong>ms2</strong> in your GitHub repository.</p>
 </div>
 
 ## Code Coverage 👥
