@@ -132,7 +132,7 @@ We are not grading based on how much code coverage has been obtained, but rather
 
 <div class="callout callout-success">
   <div class="callout-title">Submission</div>
-  <p>Append the two pages to the end of your Milestone 2 report.</p>
+  <p>Append the two pages to the end of your collated Milestone 2 report (see below).</p>
 </div>
 
 ## Report 👤
