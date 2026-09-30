@@ -1,0 +1,55 @@
+<frontmatter>
+  title: "Milestone 3"
+</frontmatter>
+
+# Milestone 3
+
+<div class="callout callout-warning">
+  <div class="callout-title">Deadline</div>
+  <p>Due on <strong>Week 13 Tuesday, 12:00 PM</strong> (Monday is a Public Holiday).</p>
+</div>
+
+## Performance Tests 👤
+
+<div class="callout callout-info">
+  <div class="callout-title">Weightage</div>
+  <p>This section is worth <strong>3%</strong> of your final grade.</p>
+</div>
+
+Identify and automate performance tests using **Grafana k6**. Automate one type of performance test per person for the submission (e.g., load testing, stress testing, spike testing, soak testing, etc.). Test types can't be repeated among group members. For example, if one member does load testing, it can't be done by anyone else in the group. It is fine to test the same component as another group member, as long as your testing type is different.
+
+It is up to you to determine the number of tests to automate as this can sometimes depend on your test type. That said, typically testing a few significant components appropriate for your test type is sufficient.
+
+**Different from the previous milestones, in this milestone you are NOT required to fix any bugs found during testing.**
+
+### Grading Rubric
+
+<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 3: 15% - Week 13 Tuesday 12 PM — Performance Tests 3% (Individual) — Grading Rubric" tabindex="0">
+  <table class="wide-data course-note-table course-note-rubric">
+    <thead>
+      <tr>
+        <th scope="col">Correctness (2%)</th>
+        <th scope="col">Uniqueness (1%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>0: There are issues with the implementation that compromise its validity.</td>
+        <td>0: Performance test type is not unique within the group (all members with the same test type will be penalized).</td>
+      </tr>
+      <tr>
+        <td>1: Implementation is mostly logical, but the performance testing is only partially demonstrated.</td>
+        <td>1: Performance test type is unique within the group.</td>
+      </tr>
+      <tr>
+        <td>2: Implementation is logical and performance testing is clearly being done.</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="callout callout-success">
+  <div class="callout-title">Submission</div>
+  <p>Tag your group's code as <strong>ms3</strong> in your GitHub repository.</p>
+</div>
