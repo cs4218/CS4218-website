@@ -103,3 +103,21 @@ As a group, write a **two-page summary** on all the AI-driven testing approach(e
 </div>
 
 Details will be updated soon.
+
+## Report 👤
+
+<div class="callout callout-info">
+  <div class="callout-title">Weightage</div>
+  <p>This section is worth <strong>4%</strong> of your final grade.</p>
+</div>
+
+Details will be updated soon.
+
+## Presentation 👤 + 👥
+
+<div class="callout callout-info">
+  <div class="callout-title">Weightage</div>
+  <p>This section is worth <strong>3%</strong> of your final grade.</p>
+</div>
+
+Details will be updated soon.
