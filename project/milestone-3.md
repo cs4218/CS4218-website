@@ -81,10 +81,13 @@ As a group, write a **two-page summary** on all the AI-driven testing approach(e
     </thead>
     <tbody>
       <tr>
-        <td>0: Some basic AI-driven testing done. Several key components are missing or explanations lack clarity, depth, or proper organization.</td>
+        <td>0: No AI-driven testing and analysis done.</td>
       </tr>
       <tr>
-        <td>1: Extensive/advanced AI-driven testing done. All required content is clearly described, well-organized, and presented appropriately.</td>
+        <td>1: Some basic AI-driven testing and analysis done.</td>
+      </tr>
+      <tr>
+        <td>2: Extensive/advanced AI-driven testing and analysis done.</td>
       </tr>
     </tbody>
   </table>
