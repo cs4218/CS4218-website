@@ -53,3 +53,53 @@ It is up to you to determine the number of tests to automate as this can sometim
   <div class="callout-title">Submission</div>
   <p>Tag your group's code as <strong>ms3</strong> in your GitHub repository.</p>
 </div>
+
+## General AI-driven Testing 👥
+
+<div class="callout callout-info">
+  <div class="callout-title">Weightage</div>
+  <p>This section is worth <strong>2%</strong> of your final grade.</p>
+</div>
+
+AI-driven testing refers to the use of AI-assisted techniques or tools to automate and enhance the testing process. As a group, you are expected to use AI-driven testing to help with your testing. Some examples include (but are not limited to):
+
+- Writing tests using AI.
+- AI agents performing automated code corrections.
+- AI-based test input generation.
+- AI-based code/result analysis and reporting (e.g., identifying anti-patterns like brittle test cases, analysing logs).
+
+As a group, write a **two-page summary** on all the AI-driven testing approach(es) used throughout the milestones. Discuss their effectiveness and limitations, how you would improve them, and so on. Include detailed examples.
+
+### Grading Rubric
+
+<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 3: 15% - Week 13 Tuesday 12 PM — General AI-driven Testing 2% (Group) — Grading Rubric" tabindex="0">
+  <table class="wide-data course-note-table course-note-rubric">
+    <thead>
+      <tr>
+        <th scope="col">General AI-driven Testing (2%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>0: Some basic AI-driven testing done. Several key components are missing or explanations lack clarity, depth, or proper organization.</td>
+      </tr>
+      <tr>
+        <td>1: Extensive/advanced AI-driven testing done. All required content is clearly described, well-organized, and presented appropriately.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="callout callout-success">
+  <div class="callout-title">Submission</div>
+  <p>Append the two pages to the end of your collated Milestone 3 report (see below).</p>
+</div>
+
+## AI-driven Security Testing 👤
+
+<div class="callout callout-info">
+  <div class="callout-title">Weightage</div>
+  <p>This section is worth <strong>3%</strong> of your final grade.</p>
+</div>
+
+Details will be updated soon.
