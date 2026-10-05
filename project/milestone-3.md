@@ -123,4 +123,42 @@ Details will be updated soon.
   <p>This section is worth <strong>3%</strong> of your final grade.</p>
 </div>
 
-Details will be updated soon.
+The presentation consists of an individual component and a group component. Presentations will be conducted one group at a time. A 5-member group gets a total of 20 minutes to present.
+
+- **Individual (3 minutes per person):** Open your Milestone 3 report and present your portion of the work. No slides are required.
+- **Group (5 minutes):** Give a short live demo as a group, showcasing how you used AI in the project.
+
+A short Q&A session will follow the presentation.
+
+The presentation is graded **solely on your communication skills**. The content of the presentation (i.e., your Milestone 3 report) is graded separately under the Report section.
+
+### Grading Rubric
+
+<div class="table-scroll course-note-table-scroll" role="region" aria-label="Project Milestone 3: 15% - Week 13 Tuesday 12 PM — Presentation 3% (Individual + Group) — Grading Rubric" tabindex="0">
+  <table class="wide-data course-note-table course-note-rubric">
+    <thead>
+      <tr>
+        <th scope="col">Structure (1%)</th>
+        <th scope="col">AI-usage Demo (1%)</th>
+        <th scope="col">Verbal Delivery (1%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>0: Presentation is difficult to follow and poorly structured.</td>
+        <td>0: Demo is not working, or AI usage is not clearly demonstrated.</td>
+        <td>0: Speech is unclear, overly rushed, too quiet, or difficult to understand.</td>
+      </tr>
+      <tr>
+        <td>1: Presentation is well-structured and easy to follow within the time limit.</td>
+        <td>1: Demo is fully working and AI usage is clearly demonstrated.</td>
+        <td>1: Speech is clear, audible, well-paced, and confident.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="callout callout-success">
+  <div class="callout-title">Submission</div>
+  <p>There is nothing to submit for this one! Simply show up at your allocated time slot and present.</p>
+</div>
